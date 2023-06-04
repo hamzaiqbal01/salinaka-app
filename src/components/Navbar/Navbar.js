@@ -18,7 +18,7 @@ import { useTheme } from "@mui/material/styles";
 
 export default function Navbar() {
   const pages = [
-    { lable: "Homee", Path: "/" },
+    { lable: "Home", Path: "/" },
     { lable: "Shop", Path: "/shop" },
     { lable: "Feature", Path: "/Feature" },
     { lable: "Recomended", Path: "/Rec" },
